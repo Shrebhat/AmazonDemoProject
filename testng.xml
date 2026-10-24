@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test  name="Test">
+  <parameter name="engine" value="firefox"></parameter>
+    <classes>
+     <class name="amazontest.AmzProject.TestCase1_LoginToAmazon"/>
+   <class name="amazontest.AmzProject.TestCase2_LoginToAmazonandLogout"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
